@@ -1,1 +1,1 @@
-# DS-AI
+# Logistic Regression & Ensemble model classifiers
